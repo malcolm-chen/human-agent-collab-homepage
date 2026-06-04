@@ -35,7 +35,7 @@ const platformCite = `@article{yao2025humanagent,
       Effective collaboration depends on maintaining mental models of shared goals, partner intentions, and one's own reasoning. We study this along three complementary lines:
       <strong>ALMANAC</strong> captures how humans form and update these mental models during collaboration;
       <strong>CollabSim</strong> investigates LLM agents' collaborative competence through controlled multi-agent experiments;
-      our <strong>Human-Agent Collaboration Platform</strong> provides an open-source toolkit for HCI researchers studying human–LLM agent collaboration.
+      our <strong>Human-Agent Collaboration Platform</strong> provides an open-source research platform for HCI researchers studying human–LLM agent collaboration.
     </p>
 
     <!-- <div class="author-row">Anonymous Author List &nbsp;·&nbsp; Anonymous Institution</div> -->
@@ -73,7 +73,7 @@ const platformCite = `@article{yao2025humanagent,
           :class="{ 'active-c': activeTeaser === 'c' }"
           @click="activeTeaser = 'c'"
         >
-          Platform — Human-Agent Collaboration Research Toolkit
+          Platform — Human-Agent Collaboration Research Platform
         </button>
       </div>
 

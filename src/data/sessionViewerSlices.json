@@ -1,0 +1,224 @@
+{
+  "visible": {
+    "label": "Canvas Visible",
+    "sessionName": "study13",
+    "dataFolder": "visible_data",
+    "startTime": "2026-05-05T00:32:32.897121Z",
+    "endTime": "2026-05-05T00:34:03.322000Z",
+    "actions": [
+      {
+        "id": "2026-05-05T00:32:32.897121Z",
+        "actionId": "ae9e1a05-895d-4dc9-961c-c13da24321db",
+        "timestamp": "2026-05-05T00:32:32.897121Z",
+        "elapsed": "0:00",
+        "role": "guide",
+        "actionType": "message",
+        "content": "Do you see the start point the x mark on your map at all?",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Working toward a shared understanding",
+          "partnerIntent": "Is waiting for more information to understand the situation",
+          "selfReasoning": "Confirming the situation with my partner",
+          "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions."
+        }
+      },
+      {
+        "id": "2026-05-05T00:32:38.912118Z",
+        "actionId": "db1a5e77-0209-4818-a553-dad0ebfc8fed",
+        "timestamp": "2026-05-05T00:32:38.912118Z",
+        "elapsed": "0:06",
+        "role": "follower",
+        "actionType": "message",
+        "content": "No",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Something was unclear and we were working it out",
+          "partnerIntent": "Probably understood our situation but I was not fully sure",
+          "selfReasoning": "Repairing a mistake or misunderstanding",
+          "rationale": "I am responding to the guide, to their question, so that we can move forward on the same page."
+        }
+      },
+      {
+        "id": "2026-05-05T00:33:26.367335Z",
+        "actionId": "f1343c24-e3b0-4c44-9d87-6429060f2af4",
+        "timestamp": "2026-05-05T00:33:26.367335Z",
+        "elapsed": "0:53",
+        "role": "guide",
+        "actionType": "message",
+        "content": "Ohhkay so the start point is pretty much between the edge and the bones so thats the start point",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Clear on what to do and working on it",
+          "partnerIntent": "Is waiting for more information to understand the situation",
+          "selfReasoning": "Confirming the situation with my partner",
+          "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions."
+        }
+      },
+      {
+        "id": "2026-05-05T00:33:49.922784Z",
+        "actionId": "87c0a63f-1e1a-45e6-b30c-6cec06690e12",
+        "timestamp": "2026-05-05T00:33:49.922784Z",
+        "elapsed": "1:17",
+        "role": "follower",
+        "actionType": "message",
+        "content": "Wait I do see it I was not looking closely.",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Clear on what to do and working on it",
+          "partnerIntent": "Understood the situation and we were on the same page",
+          "selfReasoning": "Repairing a mistake or misunderstanding",
+          "rationale": "I corrected my mistake and miscommunication."
+        }
+      },
+      {
+        "id": "2026-05-05T00:33:56.671000Z",
+        "actionId": "f1579dd9-92f5-437f-911a-d21452fb5313",
+        "timestamp": "2026-05-05T00:33:56.671000Z",
+        "elapsed": "1:24",
+        "role": "follower",
+        "actionType": "erase",
+        "content": "",
+        "mapImage": "files/f1579dd9-92f5-437f-911a-d21452fb5313_map_image.png",
+        "drawingAccuracy": 0.479675,
+        "mentalModel": {
+          "teamGoal": "Clear on what to do and working on it",
+          "partnerIntent": "Understood the situation and we were on the same page",
+          "selfReasoning": "Executing a plan we already agreed on",
+          "rationale": "I was fixing a line I had already put down based off of the guide's feedback."
+        }
+      },
+      {
+        "id": "2026-05-05T00:34:03.322000Z",
+        "actionId": "1b69c6cf-e637-4cb5-b9b1-27d18de30d5a",
+        "timestamp": "2026-05-05T00:34:03.322000Z",
+        "elapsed": "1:30",
+        "role": "follower",
+        "actionType": "draw",
+        "content": "",
+        "mapImage": "files/1b69c6cf-e637-4cb5-b9b1-27d18de30d5a_map_image.png",
+        "drawingAccuracy": 0.486928,
+        "mentalModel": {
+          "teamGoal": "Clear on what to do and working on it",
+          "partnerIntent": "Understood the situation and we were on the same page",
+          "selfReasoning": "Executing a plan we already agreed on",
+          "rationale": "I attempt to draw the route off of the description given by the guide. The guide was waiting to see my interpretation of their directions, so I used the pen to redraw my understanding."
+        }
+      }
+    ]
+  },
+  "notVisible": {
+    "label": "Canvas Not Visible",
+    "sessionName": "study25",
+    "dataFolder": "notvisible_data",
+    "startTime": "2026-05-10T19:13:23.471998Z",
+    "endTime": "2026-05-10T19:15:16.836292Z",
+    "actions": [
+      {
+        "id": "2026-05-10T19:13:23.471998Z",
+        "actionId": "5254abce-9584-482e-bfd1-41cbea901c07",
+        "timestamp": "2026-05-10T19:13:23.471998Z",
+        "elapsed": "0:00",
+        "role": "follower",
+        "actionType": "message",
+        "content": "lets check for the misplaced landmark first",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Clear on what to do and working on it",
+          "partnerIntent": "Understood the situation and we were on the same page",
+          "selfReasoning": "Confirming the situation with my partner",
+          "rationale": "So, I was thinking that since one landmark is misplaced, let me figure out which one that is."
+        }
+      },
+      {
+        "id": "2026-05-10T19:13:45.128544Z",
+        "actionId": "e5fe7aee-6887-4e56-a163-3f4942f2df21",
+        "timestamp": "2026-05-10T19:13:45.128544Z",
+        "elapsed": "0:22",
+        "role": "guide",
+        "actionType": "message",
+        "content": "we will start from dinosaur bones starting from right side assuming u are facing the screen",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Working toward a shared understanding",
+          "partnerIntent": "Probably understood our situation but I was not fully sure",
+          "selfReasoning": "Exploring on my own to gather information",
+          "rationale": "I'm trying to explain my partner how to start using alphabets, how should be the path look like and I think so my partner did pretty well in making the first part, basically by communicating he's trying to tell me, now I'll explain him in the future directions."
+        }
+      },
+      {
+        "id": "2026-05-10T19:13:47.644874Z",
+        "actionId": "661f980a-c6c5-4407-bbe7-b1a75aab61e6",
+        "timestamp": "2026-05-10T19:13:47.644874Z",
+        "elapsed": "0:24",
+        "role": "follower",
+        "actionType": "message",
+        "content": "from the top to bottom tell me your landmarks",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Working toward a shared understanding",
+          "partnerIntent": "Probably understood our situation but I was not fully sure",
+          "selfReasoning": "Exploring on my own to gather information",
+          "rationale": "So, I was thinking that since one landmark is misplaced, let me figure out which one that is."
+        }
+      },
+      {
+        "id": "2026-05-10T19:14:34.062591Z",
+        "actionId": "2691abf6-a895-405c-8452-c1b651490edc",
+        "timestamp": "2026-05-10T19:14:34.062591Z",
+        "elapsed": "1:11",
+        "role": "guide",
+        "actionType": "message",
+        "content": "right side dinosaur bones below that volcano below that forest and lower down pyramid",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Working toward a shared understanding",
+          "partnerIntent": "Understood the situation and we were on the same page",
+          "selfReasoning": "Executing a plan we already agreed on",
+          "rationale": "Here me and my partner were trying to figure out which point in the map is not at the proper location, basically missing, we were discussing that."
+        }
+      },
+      {
+        "id": "2026-05-10T19:15:04.866467Z",
+        "actionId": "501cf267-d6fc-4068-a394-6fc82c012e1b",
+        "timestamp": "2026-05-10T19:15:04.866467Z",
+        "elapsed": "1:41",
+        "role": "guide",
+        "actionType": "message",
+        "content": "left side suspension bridge and igloo",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Working toward a shared understanding",
+          "partnerIntent": "Understood the situation and we were on the same page",
+          "selfReasoning": "Executing a plan we already agreed on",
+          "rationale": "Here me and my partner were trying to figure out which point in the map is not at the proper location, basically missing, we were discussing that."
+        }
+      },
+      {
+        "id": "2026-05-10T19:15:16.836292Z",
+        "actionId": "744813ff-356f-4fb3-8b42-820b988b8602",
+        "timestamp": "2026-05-10T19:15:16.836292Z",
+        "elapsed": "1:53",
+        "role": "follower",
+        "actionType": "message",
+        "content": "okay so the pyramid is misplaced in mine",
+        "mapImage": null,
+        "drawingAccuracy": null,
+        "mentalModel": {
+          "teamGoal": "Working toward a shared understanding",
+          "partnerIntent": "Probably understood our situation but I was not fully sure",
+          "selfReasoning": "Exploring on my own to gather information",
+          "rationale": "So I figured out which landmark was wrong and my partner told me exactly the orientation of all the landmarks."
+        }
+      }
+    ]
+  }
+}

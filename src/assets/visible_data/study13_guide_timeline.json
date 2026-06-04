@@ -1,0 +1,1150 @@
+[
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:20:45.013396Z",
+    "action_type": "message",
+    "action_content": "hey so lets start by figuring out what landmarks you see",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to figure out our maps which location was placed differently. We were just pointing out each location and their position according to the map. I took this action so that we have a clear idea of what is missing.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:21:53.099316Z",
+    "action_type": "message",
+    "action_content": "Got it",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to figure out our maps which location was placed differently. We were just pointing out each location and their position according to the map. I took this action so that we have a clear idea of what is missing.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:22:05.257761Z",
+    "action_type": "message",
+    "action_content": "And volcano on the right above the center",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to figure out our maps which location was placed differently. We were just pointing out each location and their position according to the map. I took this action so that we have a clear idea of what is missing.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:22:09.421524Z",
+    "action_type": "message",
+    "action_content": "?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to figure out our maps which location was placed differently. We were just pointing out each location and their position according to the map. I took this action so that we have a clear idea of what is missing.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:22:19.871152Z",
+    "action_type": "message",
+    "action_content": "And dinosaur bones at very top?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to figure out our maps which location was placed differently. We were just pointing out each location and their position according to the map. I took this action so that we have a clear idea of what is missing.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:23:26.294381Z",
+    "action_type": "message",
+    "action_content": "Pyramids?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment we were trying to figure out which location was the misplaced one. Me and my partner were figuring out the exact location it shows on my map so she has a better idea. I took this action so she knew exactly what I was working with.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:25:21.808693Z",
+    "action_type": "message",
+    "action_content": "Okay so I think we have the volcano misplaced and the pyramids misplaced",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment we were trying to figure out which location was the misplaced one. Me and my partner were figuring out the exact location it shows on my map so she has a better idea. I took this action so she knew exactly what I was working with.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:26:02.047369Z",
+    "action_type": "message",
+    "action_content": "I have the volcano on the right above the centre far right",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment we were trying to figure out which location was the misplaced one. Me and my partner were figuring out the exact location it shows on my map so she has a better idea. I took this action so she knew exactly what I was working with.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:26:14.944906Z",
+    "action_type": "message",
+    "action_content": "And the pyramids are far right bottom of the map",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment we were trying to figure out which location was the misplaced one. Me and my partner were figuring out the exact location it shows on my map so she has a better idea. I took this action so she knew exactly what I was working with.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:27:04.439778Z",
+    "action_type": "message",
+    "action_content": "Ohhkay then only pyramids",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment we were trying to figure out which location was the misplaced one. Me and my partner were figuring out the exact location it shows on my map so she has a better idea. I took this action so she knew exactly what I was working with.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:27:33.074121Z",
+    "action_type": "message",
+    "action_content": "Okay lets start drawing path then",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner have figured out the whole map, the location that was misplaced. My partner was clear about her map and the plans. And next step, we were going to start drawing the path.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:28:35.054717Z",
+    "action_type": "message",
+    "action_content": "So the start point is right of bones, it comes down towards the volcano but it goes around it on the left side and then after crossing the volcano it goes complete to the right side",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner have figured out the whole map, the location that was misplaced. My partner was clear about her map and the plans. And next step, we were going to start drawing the path.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:31:55.951476Z",
+    "action_type": "message",
+    "action_content": "Lets goo",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n..............................xx........\n..............................xx........\n...............................x........\n...............................x........\n..............................xx........\n..............................xx........\n..............................xx........\n.............................xx.........\n.............................xx.........\n.............................x..........\n............................xx..........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n.........................xxx............\n.........................xx.............\n........................xx..............\n.......................xxx..............\n.......................xx...............\n.......................xx...............\n.......................x................\n.......................xx...............\n.......................xx...............\n........................xx..............\n........................xxx.............\n.........................xxxxxx.........\n..........................xxxxxxxx......\n................................xxxx....\n..................................xxx...\n...................................xx...\n....................................xx..\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................xx\n......................................xx\n......................................xx\n......................................xx\n.....................................xx.\n....................................xx..\n.................................xxxx...\n.................................xxx....\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.481481,
+    "mental_model": {
+      "rationale": "At this moment, me and my partner have figured out the whole map, the location that was misplaced. My partner was clear about her map and the plans. And next step, we were going to start drawing the path.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:32:10.823344Z",
+    "action_type": "message",
+    "action_content": "Thats pretty accurate but a few things to improve it",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:32:32.897121Z",
+    "action_type": "message",
+    "action_content": "Do you see the start point the x mark on your map at all?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:33:26.367335Z",
+    "action_type": "message",
+    "action_content": "Ohhkay so the start point is pretty much between the edge and the bones so thats the start point",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:34:06.413368Z",
+    "action_type": "message",
+    "action_content": "Perfect",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n..............................xx........\n.............................xx.........\n............................xxx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n.........................xxx............\n.........................xx.............\n........................xx..............\n.......................xxx..............\n.......................xx...............\n.......................xx...............\n.......................x................\n.......................xx...............\n.......................xx...............\n........................xx..............\n........................xxx.............\n.........................xxxxxx.........\n..........................xxxxxxxx......\n................................xxxx....\n..................................xxx...\n...................................xx...\n....................................xx..\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................xx\n......................................xx\n......................................xx\n......................................xx\n.....................................xx.\n....................................xx..\n.................................xxxx...\n.................................xxx....\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.486928,
+    "mental_model": {
+      "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:34:21.178114Z",
+    "action_type": "message",
+    "action_content": "Okay I'll give other details before continuing",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:34:46.903225Z",
+    "action_type": "message",
+    "action_content": "Lol",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:35:37.086407Z",
+    "action_type": "message",
+    "action_content": "Okay so few more things then the path around the volcano it has to curve a bit more to the left almost come to the centre",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:36:28.019127Z",
+    "action_type": "message",
+    "action_content": "Left farther from volcano",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxx.....\n................................xx......\n...............................xx.......\n..............................xx........\n..............................xx........\n.............................xx.........\n............................xx..........\n...........................xxx..........\n...........................xx...........\n..........................xx............\n..........................xx............\n.........................xx.............\n.........................xx.............\n.........................xx.............\n.........................x..............\n.........................x..............\n.........................xx.............\n.........................xxx............\n...........................xxxx.........\n..............................xx........\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.277778,
+    "mental_model": {
+      "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:37:15.608389Z",
+    "action_type": "message",
+    "action_content": "And you could add a bit more curvature towards the end of the current path you've drawn",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xx......\n...............................xx.......\n.............................xxx........\n............................xxx.........\n............................xx..........\n...........................xx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n.....................xxx................\n....................xxx.................\n....................xx..................\n...................xx...................\n...................xx...................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.642276,
+    "mental_model": {
+      "rationale": "Me and my partner were trying to draw the path. It was the first ever path she drew. It's pretty accurate. She did really good, but there are some improvements to do. What I took from this action is that I need to give better instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:38:22.758555Z",
+    "action_type": "message",
+    "action_content": "So it doesnt curve there",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n.................................xx.....\n...............................xxxx.....\n.............................xxxx.......\n...........................xxxx.........\n..........................xxx...........\n.........................xxx............\n.......................xxx..............\n......................xxx...............\n.....................xxx................\n.....................xx.................\n....................xx..................\n....................x...................\n...................xx...................\n...................xx...................\n...................xx...................\n...................xx...................\n...................xx...................\n...................xx...................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.768116,
+    "mental_model": {
+      "rationale": "at this moment me and my partner were trying to fix the curvature of the path between the start point and around the volcano I was I think I was not able to provide accurate information right now so what I later decided was to move forward and come back to it later my partner was doing accurate she was following the exact steps it was my issue I couldn't give her exact details so since I couldn't give it now I thought I'll come back to it later",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:38:56.667186Z",
+    "action_type": "message",
+    "action_content": "The curvature start kinda when you vertically get closer to the volcano",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "at this moment me and my partner were trying to fix the curvature of the path between the start point and around the volcano I was I think I was not able to provide accurate information right now so what I later decided was to move forward and come back to it later my partner was doing accurate she was following the exact steps it was my issue I couldn't give her exact details so since I couldn't give it now I thought I'll come back to it later",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:39:21.196280Z",
+    "action_type": "message",
+    "action_content": "The curvature in the first ever time you draw was perfect",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "at this moment me and my partner were trying to fix the curvature of the path between the start point and around the volcano I was I think I was not able to provide accurate information right now so what I later decided was to move forward and come back to it later my partner was doing accurate she was following the exact steps it was my issue I couldn't give her exact details so since I couldn't give it now I thought I'll come back to it later",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:39:29.057920Z",
+    "action_type": "message",
+    "action_content": "It was just too close thats all",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n.................................xx.....\n.................................xx.....\n................................xx......\n...............................xx.......\n..............................xxx.......\n..............................xx........\n.............................xx.........\n............................xx..........\n............................xx..........\n...........................xx...........\n..........................xx............\n..........................xx............\n.........................xx.............\n.......................xxx..............\n......................xxx...............\n..................xxxxxx................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.299145,
+    "mental_model": {
+      "rationale": "at this moment me and my partner were trying to fix the curvature of the path between the start point and around the volcano I was I think I was not able to provide accurate information right now so what I later decided was to move forward and come back to it later my partner was doing accurate she was following the exact steps it was my issue I couldn't give her exact details so since I couldn't give it now I thought I'll come back to it later",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:40:18.628045Z",
+    "action_type": "message",
+    "action_content": "Yea we can work with that how about we come back to the curvature later",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxx........\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.438889,
+    "mental_model": {
+      "rationale": "I was not able to successfully provide the accurate information I feel like my partner was doing accurate as I was just me who couldn't provide the exact details of the path so since I couldn't do it I thought I'll come back to it later so I thought we should continue further not waste time over here",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Exploring on my own to gather information"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:40:25.582432Z",
+    "action_type": "message",
+    "action_content": "It works",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was not able to successfully provide the accurate information I feel like my partner was doing accurate as I was just me who couldn't provide the exact details of the path so since I couldn't do it I thought I'll come back to it later so I thought we should continue further not waste time over here",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Exploring on my own to gather information"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:41:02.241514Z",
+    "action_type": "message",
+    "action_content": "Okay perfectT",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was not able to successfully provide the accurate information I feel like my partner was doing accurate as I was just me who couldn't provide the exact details of the path so since I couldn't do it I thought I'll come back to it later so I thought we should continue further not waste time over here",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Exploring on my own to gather information"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:41:58.403718Z",
+    "action_type": "message",
+    "action_content": "Then it goes down and right pretty much all the way to bottom of the map where I can see pyramids",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "moving forward we were working on tracing out the rest of the path most importantly the one from volcano to the pyramids that are misplaced on the followers map and my partner was doing a really good job at drawing it out she got it in the first try pretty much from this what did I take from this action that I should continue working forward rather than being stuck at one issue",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Exploring on my own to gather information"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:42:18.699549Z",
+    "action_type": "message",
+    "action_content": "Yea further down",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxx........\n..............................xxx.......\n................................xx......\n................................xx......\n.................................xx.....\n.................................xx.....\n..................................xx....\n..................................xx....\n..................................xx....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.418519,
+    "mental_model": {
+      "rationale": "moving forward we were working on tracing out the rest of the path most importantly the one from volcano to the pyramids that are misplaced on the followers map and my partner was doing a really good job at drawing it out she got it in the first try pretty much from this what did I take from this action that I should continue working forward rather than being stuck at one issue",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:42:23.505839Z",
+    "action_type": "message",
+    "action_content": "And more right",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxx........\n..............................xxx.......\n................................xx......\n................................xx......\n.................................xx.....\n.................................xx.....\n..................................xx....\n..................................xx....\n..................................xx....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n..................................xx....\n..................................xx....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.40625,
+    "mental_model": {
+      "rationale": "moving forward we were working on tracing out the rest of the path most importantly the one from volcano to the pyramids that are misplaced on the followers map and my partner was doing a really good job at drawing it out she got it in the first try pretty much from this what did I take from this action that I should continue working forward rather than being stuck at one issue",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:42:30.359133Z",
+    "action_type": "message",
+    "action_content": "Edges",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxx........\n..............................xxx.......\n................................xx......\n................................xx......\n.................................xx.....\n.................................xx.....\n..................................xx....\n..................................xx....\n..................................xx....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n..................................xx....\n..................................xx....\n...................................x....\n...................................x....\n...................................x....\n...................................x....\n...................................xx...\n...................................xx...\n........................................\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.42,
+    "mental_model": {
+      "rationale": "moving forward we were working on tracing out the rest of the path most importantly the one from volcano to the pyramids that are misplaced on the followers map and my partner was doing a really good job at drawing it out she got it in the first try pretty much from this what did I take from this action that I should continue working forward rather than being stuck at one issue",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:42:54.643458Z",
+    "action_type": "message",
+    "action_content": "Perfect",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxxx.......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.596667,
+    "mental_model": {
+      "rationale": "moving forward we were working on tracing out the rest of the path most importantly the one from volcano to the pyramids that are misplaced on the followers map and my partner was doing a really good job at drawing it out she got it in the first try pretty much from this what did I take from this action that I should continue working forward rather than being stuck at one issue",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:43:47.450526Z",
+    "action_type": "message",
+    "action_content": "Okay bit tricky to explain",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I'm trying to instruct my partner through a tricky area because she doesn't have the landmark at that place, it was misplaced on the map. My partner was doing great despite the misplacement and I wanted to give clear instructions so I took some time and explained it to her that it's a bit tricky.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:44:21.304875Z",
+    "action_type": "message",
+    "action_content": "So the path continues to go to left but its a curve, and the curve never gets close to the corner",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I'm trying to instruct my partner through a tricky area because she doesn't have the landmark at that place, it was misplaced on the map. My partner was doing great despite the misplacement and I wanted to give clear instructions so I took some time and explained it to her that it's a bit tricky.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:47:11.611037Z",
+    "action_type": "message",
+    "action_content": "Thats perfect,",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxxx.......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n.....................................xx.\n.....................................xx.\n.....................................xx.\n....................................xxx.\n.................................xxxxx..\n........xxxxxxxxxxxxxxxxxxxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.561275,
+    "mental_model": {
+      "rationale": "At this moment my partner was trying to draw the path as I instructed her. She did great, she did perfect.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:47:22.658734Z",
+    "action_type": "message",
+    "action_content": "But it doesnt go all the way to igloo",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "we figured out the tricky bit i gave instructions to draw from the pyramids to the forest but i forgot to inform her about the length so my partner did correct it was my issue i didn't instruct her correctly and i should have given her more instructions",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:48:03.860961Z",
+    "action_type": "message",
+    "action_content": "It is pretty much, umm, I would say if you image a vertical line form the center of the forest down",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxxx.......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n.....................................xx.\n.....................................xx.\n.....................................xx.\n....................................xxx.\n.................................xxxxx..\n................xxxxxxxxxxxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.596354,
+    "mental_model": {
+      "rationale": "we figured out the tricky bit i gave instructions to draw from the pyramids to the forest but i forgot to inform her about the length so my partner did correct it was my issue i didn't instruct her correctly and i should have given her more instructions",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:48:35.818390Z",
+    "action_type": "message",
+    "action_content": "yea",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxxx.......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n.....................................xx.\n.....................................xx.\n.....................................xx.\n....................................xxx.\n.................................xxxxx..\n............................xxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.614943,
+    "mental_model": {
+      "rationale": "Me and my partner were trying to remediate the mistake of drawing the line too long. I gave her more instructions on the length and she did it perfectly. It was my mistake earlier to not inform about this piece of information.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:49:47.113337Z",
+    "action_type": "message",
+    "action_content": "And then the path curves a little around the imaginary pyramids and straight gets close to bottom left of forests",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to make a path from pyramids to the forest. My partner was doing, following the instructions accurately. From this action, I believe I need to give even more detailed instructions for her to follow, compared to the earlier instructions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:50:16.934531Z",
+    "action_type": "message",
+    "action_content": "yes",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to make a path from pyramids to the forest. My partner was doing, following the instructions accurately. From this action, I believe I need to give even more detailed instructions for her to follow, compared to the earlier instructions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:51:01.016098Z",
+    "action_type": "message",
+    "action_content": "the same exact path and curve but make it a little more to left",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxxx.......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n...................xxxx...............x.\n...................xxxxxx.............x.\n.......................xx.............x.\n........................xx............x.\n........................xx............x.\n.........................x............x.\n.........................xx..........xx.\n.........................xx..........xx.\n..........................x..........xx.\n..........................xx........xxx.\n..........................xx.....xxxxx..\n...........................xxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.550117,
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to make a path from pyramids to the forest. My partner was doing, following the instructions accurately. From this action, I believe I need to give even more detailed instructions for her to follow, compared to the earlier instructions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:51:29.117446Z",
+    "action_type": "message",
+    "action_content": "Yup",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxxx.......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n................xxxxx.................x.\n................xxxxxx................x.\n.....................xx.x.............x.\n......................xx..............x.\n......................xx..............x.\n.......................xx.............x.\n.......................xx............xx.\n........................x............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.585586,
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to make a path from pyramids to the forest. My partner was doing, following the instructions accurately. From this action, I believe I need to give even more detailed instructions for her to follow, compared to the earlier instructions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:52:01.398438Z",
+    "action_type": "message",
+    "action_content": "And then it curves down and gets close to the igloo an curve there and foes back up",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner were trying to make a path from pyramids to the forest. My partner was doing, following the instructions accurately. From this action, I believe I need to give even more detailed instructions for her to follow, compared to the earlier instructions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:52:14.828272Z",
+    "action_type": "message",
+    "action_content": "Wait",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "at this point me and my partner were trying to draw the last bit of the path between the forest and igloo it had two curves so it was a bit challenging but my partner was doing well no complaints from this action I figured that I need to even though if I give all pretty much all the details I feel like there was a disconnect in our understanding but we figured it out",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:52:21.967630Z",
+    "action_type": "message",
+    "action_content": "One more piece of info",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxxx.......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n................xxxxx.................x.\n................xxxxxx................x.\n.....................xx.x.............x.\n......................xx..............x.\n......................xx..............x.\n.......................xx.............x.\n.......................xx............xx.\n........................x............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.585586,
+    "mental_model": {
+      "rationale": "at this point me and my partner were trying to draw the last bit of the path between the forest and igloo it had two curves so it was a bit challenging but my partner was doing well no complaints from this action I figured that I need to even though if I give all pretty much all the details I feel like there was a disconnect in our understanding but we figured it out",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:52:35.870642Z",
+    "action_type": "message",
+    "action_content": "The path is always above the igloo form there",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "at this point me and my partner were trying to draw the last bit of the path between the forest and igloo it had two curves so it was a bit challenging but my partner was doing well no complaints from this action I figured that I need to even though if I give all pretty much all the details I feel like there was a disconnect in our understanding but we figured it out",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:54:07.916164Z",
+    "action_type": "message",
+    "action_content": "Okay",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xx......\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n.............................xx.........\n............................xx..........\n...........................xx...........\n..........................xxx...........\n..........................xx............\n.........................xx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n.....................xx.................\n......................x.................\n......................xx................\n......................xxxx..............\n........................xxxxxxxx........\n..........................xxxxxxx.......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n................xxxxx.................x.\n................xxxxxx................x.\n.....................xx.x.............x.\n......................xx..............x.\n......................xx..............x.\n.......................xx.............x.\n.......................xx............xx.\n........................x............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.585586,
+    "mental_model": {
+      "rationale": "at this point me and my partner were trying to draw the last bit of the path between the forest and igloo it had two curves so it was a bit challenging but my partner was doing well no complaints from this action I figured that I need to even though if I give all pretty much all the details I feel like there was a disconnect in our understanding but we figured it out",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:54:11.447917Z",
+    "action_type": "message",
+    "action_content": "umm lol",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "at this point me and my partner were trying to draw the last bit of the path between the forest and igloo it had two curves so it was a bit challenging but my partner was doing well no complaints from this action I figured that I need to even though if I give all pretty much all the details I feel like there was a disconnect in our understanding but we figured it out",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:54:18.469706Z",
+    "action_type": "message",
+    "action_content": "One minute",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "at this moment I was trying to figure out how to exactly explain the instructions the next part of the path my partner was following the instructions well so I wanted to give exact instructions so she doesn't get confused what I do from this action is I need to be precise",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:56:37.571715Z",
+    "action_type": "message",
+    "action_content": "oky you erased it thats fine, the main issue with the one you erased is that the start point needs to change a little",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxxx....\n...............................xxxx.....\n..............................xxxxx.....\n.............................xxxxx......\n.............................xxxx.......\n............................xxxx........\n...........................xxxx.........\n..........................xxxxx.........\n..........................xxxx..........\n.........................xxxx...........\n........................xxxx............\n.......................xxxx.............\n......................xxxx..............\n......................xxxx..............\n.....................xx.x...............\n.....................xx.x...............\n......................x.xx..............\n......................xxxxxxxx..........\n......................xxxxxxxxxx........\n........................xxxxxxxxx.......\n..........................xxxxxxxx......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n................xxxxx.................x.\n................xxxxxx................x.\n.....................xx.x.............x.\n......................xx..............x.\n......................xx..............x.\n.......................xx.............x.\n.......................xx............xx.\n........................x............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.470085,
+    "mental_model": {
+      "rationale": "At this moment me and my partner were trying to improve the path that was currently drawn between the forest and igloo But unfortunately she erased it, which is still fine. She was Pretty accurate only a few adjustments were needed from this I should have informed if it's when to erase or not to erase",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:56:53.578947Z",
+    "action_type": "message",
+    "action_content": "Currently the start point is point completely left",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxxx....\n...............................xxxx.....\n..............................xxxxx.....\n.............................xxxxx......\n.............................xxxx.......\n............................xxxx........\n...........................xxxx.........\n..........................xxxxx.........\n..........................xxxx..........\n.........................xxxx...........\n........................xxxx............\n.......................xxxx.............\n......................xxxx..............\n......................xxxx..............\n.....................xx.x...............\n.....................xx.x...............\n......................x.xx..............\n......................xxxxxxxx..........\n......................xxxxxxxxxx........\n........................xxxxxxxxx.......\n..........................xxxxxxxx......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n.............xxxxxxxx.................x.\n...........xxxxxxxxxxx................x.\n........xxxxx........xx.x.............x.\n......................xx..............x.\n......................xx..............x.\n.......................xx.............x.\n.......................xx............xx.\n........................x............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.485577,
+    "mental_model": {
+      "rationale": "At this moment me and my partner were trying to improve the path that was currently drawn between the forest and igloo But unfortunately she erased it, which is still fine. She was Pretty accurate only a few adjustments were needed from this I should have informed if it's when to erase or not to erase",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:57:08.878461Z",
+    "action_type": "message",
+    "action_content": "How about extending it further top left",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment me and my partner were trying to improve the path that was currently drawn between the forest and igloo But unfortunately she erased it, which is still fine. She was Pretty accurate only a few adjustments were needed from this I should have informed if it's when to erase or not to erase",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:58:10.989289Z",
+    "action_type": "message",
+    "action_content": "yes",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxxx....\n...............................xxxx.....\n..............................xxxxx.....\n.............................xxxxx......\n.............................xxxx.......\n............................xxxx........\n...........................xxxx.........\n..........................xxxxx.........\n..........................xxxx..........\n.........................xxxx...........\n........................xxxx............\n.......................xxxx.............\n......................xxxx..............\n......................xxxx..............\n.....................xx.x...............\n.....................xx.x...............\n......................x.xx..............\n......................xxxxxxxx..........\n......................xxxxxxxxxx........\n........................xxxxxxxxx.......\n..........................xxxxxxxx......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n...x..................................x.\n...xx........xxxxxxxx.................x.\n...xxxx....xxxx.xxxxxx................x.\n.....xxxxxxxx........xx.x.............x.\n......xxxx............xx..............x.\n......................xx..............x.\n.......................xx.............x.\n.......................xx............xx.\n........................x............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.508296,
+    "mental_model": {
+      "rationale": "At this moment me and my partner were trying to improve the path that was currently drawn between the forest and igloo But unfortunately she erased it, which is still fine. She was Pretty accurate only a few adjustments were needed from this I should have informed if it's when to erase or not to erase",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:58:17.096215Z",
+    "action_type": "message",
+    "action_content": "Let me give more details",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxxx....\n...............................xxxx.....\n..............................xxxxx.....\n.............................xxxxx......\n.............................xxxx.......\n............................xxxx........\n...........................xxxx.........\n..........................xxxxx.........\n..........................xxxx..........\n.........................xxxx...........\n........................xxxx............\n.......................xxxx.............\n......................xxxx..............\n......................xxxx..............\n.....................xx.x...............\n.....................xx.x...............\n......................x.xx..............\n......................xxxxxxxx..........\n......................xxxxxxxxxx........\n........................xxxxxxxxx.......\n..........................xxxxxxxx......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n......................................x.\n........................x.............x.\n......................................x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n........................x............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.461825,
+    "mental_model": {
+      "rationale": "At this point I was trying to give more details about the path near the igloos. My partner was doing very accurate, following the instructions accurately. That's why I wanted to give her exact details so she doesn't make any mistakes.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:58:30.151411Z",
+    "action_type": "message",
+    "action_content": "Yea",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxxx....\n...............................xxxx.....\n..............................xxxxx.....\n.............................xxxxx......\n.............................xxxx.......\n............................xxxx........\n...........................xxxx.........\n..........................xxxxx.........\n..........................xxxx..........\n.........................xxxx...........\n........................xxxx............\n.......................xxxx.............\n......................xxxx..............\n......................xxxx..............\n.....................xx.x...............\n.....................xx.x...............\n......................x.xx..............\n......................xxxxxxxx..........\n......................xxxxxxxxxx........\n........................xxxxxxxxx.......\n..........................xxxxxxxx......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n.................xx...................x.\n.................xxx..................x.\n..................xxx.................x.\n....................xx................x.\n.....................xx...............x.\n......................xxx.............x.\n......................xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.477891,
+    "mental_model": {
+      "rationale": "At this moment, my partner drew an exact path between forest and igloo. She was drawing it perfectly. And I wanted to give feedback.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:58:32.505772Z",
+    "action_type": "message",
+    "action_content": "Yup",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, my partner drew an exact path between forest and igloo. She was drawing it perfectly. And I wanted to give feedback.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:59:15.002485Z",
+    "action_type": "message",
+    "action_content": "And the path to igloo is curve down and then almost touch the igloo but curve and go up",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "The first part of the next path was figured out so remaining was easy to instruct. My partner was following the instructions well and I had to give precise instructions on how to make the rest of the path.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T00:59:33.193290Z",
+    "action_type": "message",
+    "action_content": "Awesome",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxxx....\n...............................xxxx.....\n..............................xxxxx.....\n.............................xxxxx......\n.............................xxxx.......\n............................xxxx........\n...........................xxxx.........\n..........................xxxxx.........\n..........................xxxx..........\n.........................xxxx...........\n........................xxxx............\n.......................xxxx.............\n......................xxxx..............\n......................xxxx..............\n.....................xx.x...............\n.....................xx.x...............\n......................x.xx..............\n......................xxxxxxxx..........\n......................xxxxxxxxxx........\n........................xxxxxxxxx.......\n..........................xxxxxxxx......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n...x..................................x.\n...x..........xxx.....................x.\n...xx........xxxxxx...................x.\n...xx.......xx...xxx..................x.\n....xx.....xx.....xxx.................x.\n....xx.....xx.......xx................x.\n.....xx...xx.........xx...............x.\n.....xxxxxxx..........xxx.............x.\n......xxxx............xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.525641,
+    "mental_model": {
+      "rationale": "I was acknowledging my partner that she drew the path perfectly. My partner was following the instructions properly. And I just wanted to confirm that she's doing it right.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:00:16.210404Z",
+    "action_type": "message",
+    "action_content": "The curve thats close too igloo is bit more flatter and goes further left",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "There were small adjustments that have to be made to the current path my partner drew. She was just following the instructions that I was providing. I wanted to improve the path so it matches more to my map.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:00:56.314991Z",
+    "action_type": "message",
+    "action_content": "No its close to igloo itself",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxxx....\n...............................xxxx.....\n..............................xxxxx.....\n.............................xxxxx......\n.............................xxxx.......\n............................xxxx........\n...........................xxxx.........\n..........................xxxxx.........\n..........................xxxx..........\n.........................xxxx...........\n........................xxxx............\n.......................xxxx.............\n......................xxxx..............\n......................xxxx..............\n.....................xx.x...............\n.....................xx.x...............\n......................x.xx..............\n......................xxxxxxxx..........\n......................xxxxxxxxxx........\n........................xxxxxxxxx.......\n..........................xxxxxxxx......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n.............xxxx.....................x.\n............xxxxxx....................x.\n...........xxx..xxx...................x.\n...x.....xxx.....xxx..................x.\n...xxx.xxxx.......xxx.................x.\n....xxxxxx..........xx................x.\n.....................xx...............x.\n......................xxx.............x.\n......................xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.472834,
+    "mental_model": {
+      "rationale": "There were small adjustments that have to be made to the current path my partner drew. She was just following the instructions that I was providing. I wanted to improve the path so it matches more to my map.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:01:14.711236Z",
+    "action_type": "message",
+    "action_content": "Yea",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxxx....\n...............................xxxx.....\n..............................xxxxx.....\n.............................xxxxx......\n.............................xxxx.......\n............................xxxx........\n...........................xxxx.........\n..........................xxxxx.........\n..........................xxxx..........\n.........................xxxx...........\n........................xxxx............\n.......................xxxx.............\n......................xxxx..............\n......................xxxx..............\n.....................xx.x...............\n.....................xx.x...............\n......................x.xx..............\n......................xxxxxxxx..........\n......................xxxxxxxxxx........\n........................xxxxxxxxx.......\n..........................xxxxxxxx......\n...............................xxx......\n.................................xxx....\n..................................xx....\n...................................xx...\n....................................x...\n....................................xx..\n....................................xx..\n.....................................xx.\n.....................................xx.\n.....................................xx.\n......................................x.\n......................................x.\n......................................x.\n.................xx...................x.\n...............xxxxx..................x.\n.............xxx..xxx.................x.\n............xxx.....xx................x.\n...xx......xxx.......xx...............x.\n...xxxxxxxxxx.........xxx.............x.\n......xxxx............xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.51719,
+    "mental_model": {
+      "rationale": "There were small adjustments that have to be made to the current path my partner drew. She was just following the instructions that I was providing. I wanted to improve the path so it matches more to my map.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:01:19.828018Z",
+    "action_type": "message",
+    "action_content": "Perfect",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "There were small adjustments that have to be made to the current path my partner drew. She was just following the instructions that I was providing. I wanted to improve the path so it matches more to my map.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Repairing a mistake or misunderstanding"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:01:55.157907Z",
+    "action_type": "message",
+    "action_content": "And from there it curves inside towards the bridge and goes to bridge",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this point we were at the last stage of the path so I was giving instructions for the last part. My partner was doing very well at drawing all of this. She also drew additional path for volcano but we didn't pay attention to it for now. cause we were almost finishing the task.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:02:36.524432Z",
+    "action_type": "message",
+    "action_content": "yea I think we only have the curve around the volcano to figure out",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................xx....\n.................................xxx....\n................................xxxx....\n...............................xxxx.....\n..............................xxxxx.....\n.............................xxxxx......\n.............................xxxx.......\n............................xxxx........\n...........................xxxx.........\n..........................xxxxx.........\n..........................xxxx..........\n.........................xxxx...........\n........................xxxx............\n.......................xxxx.............\n......................xxxx..............\n......................xxxx..............\n.....................xx.x...............\n.....................xx.x...............\n......................x.xx..............\n......................xxxxxxxx..........\n......................xxxxxxxxxx........\n........................xxxxxxxxx.......\n..........................xxxxxxxx......\n...............................xxx......\n.................................xxx....\n..................................xx....\n.....xx............................xx...\n.....xx.............................x...\n....xx..............................xx..\n....xx..............................xx..\n...xx................................xx.\n...xx................................xx.\n...xx................................xx.\n...x..................................x.\n...x..................................x.\n...x..................................x.\n..xx.............xx...................x.\n..xx...........xxxxx..................x.\n..xx.........xxx..xxx.................x.\n...x........xxx.....xx................x.\n...xx......xxx.......xx...............x.\n...xxxxxxxxxx.........xxx.............x.\n......xxxx............xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.518219,
+    "mental_model": {
+      "rationale": "At this moment, me and my partner pretty much finished the whole path. The only thing left was figuring out the path around the volcano. And she did a perfect job at drawing the last one. We didn't take much action over there.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:02:38.643415Z",
+    "action_type": "message",
+    "action_content": "Lets gooo",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this moment, me and my partner pretty much finished the whole path. The only thing left was figuring out the path around the volcano. And she did a perfect job at drawing the last one. We didn't take much action over there.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:03:10.351641Z",
+    "action_type": "message",
+    "action_content": "The curve around the volcano is flatter when its close to center of the map",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "At this point, me and my partner had a better understanding of each other, so the only part left was perfecting the curve around the volcano, and I gave better instructions, and my partner followed it very well. Now that we had a better understanding, it was easier to give instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:04:01.844852Z",
+    "action_type": "message",
+    "action_content": "The initial part of this path is closer to bones rather that volcano",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..................................x.....\n.................................xx.....\n................................xxx.....\n...............................xx.......\n..............................xxx.......\n.............................xxx........\n............................xxx.........\n...........................xxx..........\n..........................xxx...........\n..........................xxx...........\n.........................xxx............\n........................xx..............\n........................x...............\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n..........................xxxxxx.x......\n..............................xxxx......\n.................................xxx....\n..................................xx....\n.....xx............................xx...\n.....xx.............................x...\n....xx..............................xx..\n....xx..............................xx..\n...xx................................xx.\n...xx................................xx.\n...xx................................xx.\n...x..................................x.\n...x..................................x.\n...x..................................x.\n..xx.............xx...................x.\n..xx...........xxxxx..................x.\n..xx.........xxx..xxx.................x.\n...x........xxx.....xx................x.\n...xx......xxx.......xx...............x.\n...xxxxxxxxxx.........xxx.............x.\n......xxxx............xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.620112,
+    "mental_model": {
+      "rationale": "At this point, me and my partner had a better understanding of each other, so the only part left was perfecting the curve around the volcano, and I gave better instructions, and my partner followed it very well. Now that we had a better understanding, it was easier to give instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:04:36.820362Z",
+    "action_type": "message",
+    "action_content": "Yea the initial part look great",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n.................................xx.....\n...............................xxxx.....\n.............................xxxx.......\n............................xxx.........\n..........................xxx...........\n.........................xxx............\n........................xxx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n....................xx..................\n....................xx..................\n...................xx...................\n...................xx...................\n..................xx....................\n..................xx....................\n.................xx.....................\n.................xx.....................\n.................xx.....................\n..................xxxxxxxxx.............\n...................xxxxxxxxxxxxx.x......\n..............................xxxx......\n.................................xxx....\n..................................xx....\n.....xx............................xx...\n.....xx.............................x...\n....xx..............................xx..\n....xx..............................xx..\n...xx................................xx.\n...xx................................xx.\n...xx................................xx.\n...x..................................x.\n...x..................................x.\n...x..................................x.\n..xx.............xx...................x.\n..xx...........xxxxx..................x.\n..xx.........xxx..xxx.................x.\n...x........xxx.....xx................x.\n...xx......xxx.......xx...............x.\n...xxxxxxxxxx.........xxx.............x.\n......xxxx............xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.688576,
+    "mental_model": {
+      "rationale": "At this point, me and my partner had a better understanding of each other, so the only part left was perfecting the curve around the volcano, and I gave better instructions, and my partner followed it very well. Now that we had a better understanding, it was easier to give instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:04:57.069952Z",
+    "action_type": "message",
+    "action_content": "The only issue is it reaches too close to the bridge",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n.................................xx.....\n...............................xxxx.....\n.............................xxxx.......\n............................xxx.........\n..........................xxx...........\n.........................xxx............\n........................xxx.............\n........................xx..............\n.......................xx...............\n......................xx................\n......................xx................\n.....................xx.................\n....................xx..................\n....................xx..................\n...................xx...................\n....................x...................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n........................................\n.................................x......\n.................................xxx....\n..................................xx....\n.....xx............................xx...\n.....xx.............................x...\n....xx..............................xx..\n....xx..............................xx..\n...xx................................xx.\n...xx................................xx.\n...xx................................xx.\n...x..................................x.\n...x..................................x.\n...x..................................x.\n..xx.............xx...................x.\n..xx...........xxxxx..................x.\n..xx.........xxx..xxx.................x.\n...x........xxx.....xx................x.\n...xx......xxx.......xx...............x.\n...xxxxxxxxxx.........xxx.............x.\n......xxxx............xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.721591,
+    "mental_model": {
+      "rationale": "At this point, me and my partner had a better understanding of each other, so the only part left was perfecting the curve around the volcano, and I gave better instructions, and my partner followed it very well. Now that we had a better understanding, it was easier to give instructions.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:05:18.357191Z",
+    "action_type": "message",
+    "action_content": "Yea",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n.................................xx.....\n.................................xx.....\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n............................xxx.........\n...........................xxx..........\n..........................xxx...........\n.........................xxx............\n........................xxx.............\n........................xx..............\n.......................xx...............\n......................xxx...............\n......................xx................\n......................x.................\n.....................xx.................\n.....................xx.................\n.....................xx.................\n.....................xx.................\n.....................x..................\n.....................xx.................\n.....................xxx................\n......................xxx...............\n.......................xxxx.............\n.........................xxxxxx..x......\n............................xxxxxxxx....\n................................x.xx....\n.....xx............................xx...\n.....xx.............................x...\n....xx..............................xx..\n....xx..............................xx..\n...xx................................xx.\n...xx................................xx.\n...xx................................xx.\n...x..................................x.\n...x..................................x.\n...x..................................x.\n..xx.............xx...................x.\n..xx...........xxxxx..................x.\n..xx.........xxx..xxx.................x.\n...x........xxx.....xx................x.\n...xx......xxx.......xx...............x.\n...xxxxxxxxxx.........xxx.............x.\n......xxxx............xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.703526,
+    "mental_model": {
+      "rationale": "me and my partner perfectly drew the path around the map my partner did the best job at drawing it and following the instructions and i was acknowledging that she has completed the path properly",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:05:27.805742Z",
+    "action_type": "message",
+    "action_content": "that pretty much it",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "me and my partner perfectly drew the path around the map my partner did the best job at drawing it and following the instructions and i was acknowledging that she has completed the path properly",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:05:45.178120Z",
+    "action_type": "message",
+    "action_content": "No thats pretty accurate",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "me and my partner perfectly drew the path around the map my partner did the best job at drawing it and following the instructions and i was acknowledging that she has completed the path properly",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:06:16.616528Z",
+    "action_type": "message",
+    "action_content": "Awesome I think this works",
+    "map_canvas": "........................................\n........................................\n........................................\n........................................\n........................................\n.................................xx.....\n.................................xx.....\n...............................xxx......\n..............................xxx.......\n.............................xxx........\n............................xxx.........\n...........................xxx..........\n..........................xxx...........\n.........................xxx............\n........................xxx.............\n........................xx..............\n.......................xx...............\n......................xxx...............\n......................xx................\n......................x.................\n.....................xx.................\n.....................xx.................\n.....................xx.................\n.....................xx.................\n.....................x..................\n.....................xx.................\n.....................xxx................\n......................xxx...............\n.......................xxxx.............\n.........................xxxxxx..x......\n............................xxxxxxxx....\n................................x.xx....\n.....xx............................xx...\n.....xx.............................x...\n....xx..............................xx..\n....xx..............................xx..\n...xx................................xx.\n...xx................................xx.\n...xx................................xx.\n...x..................................x.\n...x..................................x.\n...x..................................x.\n..xx.............xx...................x.\n..xx...........xxxxx..................x.\n..xx.........xxx..xxx.................x.\n...x........xxx.....xx................x.\n...xx......xxx.......xx...............x.\n...xxxxxxxxxx.........xxx.............x.\n......xxxx............xx..............x.\n.......................x..............x.\n.......................xx.............x.\n.......................xx............xx.\n.......................xx............xx.\n........................xx...........xx.\n........................xx..........xxx.\n.........................xx......xxxxx..\n.........................xxxxxxxxxxx....\n........................................\n........................................\n........................................",
+    "drawing_accuracy": 0.703526,
+    "mental_model": {
+      "rationale": "me and my partner perfectly drew the path around the map my partner did the best job at drawing it and following the instructions and i was acknowledging that she has completed the path properly",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:06:36.470286Z",
+    "action_type": "message",
+    "action_content": "Yea I was about to say that",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Finally, me and my partner were done finishing the path, we completed everything, my partner did an awesome job and we were just congratulating each other and appreciating each other's work. I wanted to thank her for doing an amazing job.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:06:42.873998Z",
+    "action_type": "message",
+    "action_content": "Was it too hard to draw?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Finally, me and my partner were done finishing the path, we completed everything, my partner did an awesome job and we were just congratulating each other and appreciating each other's work. I wanted to thank her for doing an amazing job.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:07:11.186866Z",
+    "action_type": "message",
+    "action_content": "You did great tho",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Finally, me and my partner were done finishing the path, we completed everything, my partner did an awesome job and we were just congratulating each other and appreciating each other's work. I wanted to thank her for doing an amazing job.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:07:35.924316Z",
+    "action_type": "message",
+    "action_content": "Nah I have that issue too I can never navigate with words",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Finally, me and my partner were done finishing the path, we completed everything, my partner did an awesome job and we were just congratulating each other and appreciating each other's work. I wanted to thank her for doing an amazing job.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:07:48.695398Z",
+    "action_type": "message",
+    "action_content": "yea",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Finally, me and my partner were done finishing the path, we completed everything, my partner did an awesome job and we were just congratulating each other and appreciating each other's work. I wanted to thank her for doing an amazing job.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:07:53.781121Z",
+    "action_type": "message",
+    "action_content": "Lets submit it",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Finally, me and my partner were done finishing the path, we completed everything, my partner did an awesome job and we were just congratulating each other and appreciating each other's work. I wanted to thank her for doing an amazing job.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-05T01:08:16.062536Z",
+    "action_type": "message",
+    "action_content": "Cool",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Finally, me and my partner were done finishing the path, we completed everything, my partner did an awesome job and we were just congratulating each other and appreciating each other's work. I wanted to thank her for doing an amazing job.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  }
+]

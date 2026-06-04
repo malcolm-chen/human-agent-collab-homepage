@@ -1,0 +1,884 @@
+[
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:13:45.128544Z",
+    "action_type": "message",
+    "action_content": "we will start from dinosaur bones starting from right side assuming u are facing the screen",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I'm trying to explain my partner how to start using alphabets, how should be the path look like and I think so my partner did pretty well in making the first part, basically by communicating he's trying to tell me, now I'll explain him in the future directions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Exploring on my own to gather information"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:14:34.062591Z",
+    "action_type": "message",
+    "action_content": "right side dinosaur bones below that volcano below that forest and lower down pyramid",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here me and my partner were trying to figure out which point in the map is not at the proper location, basically missing, we were discussing that.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:15:04.866467Z",
+    "action_type": "message",
+    "action_content": "left side suspension bridge and igloo",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here me and my partner were trying to figure out which point in the map is not at the proper location, basically missing, we were discussing that.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:15:27.080315Z",
+    "action_type": "message",
+    "action_content": "ohh great",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here me and my partner were trying to figure out which point in the map is not at the proper location, basically missing, we were discussing that.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:15:50.367191Z",
+    "action_type": "message",
+    "action_content": "Eden we will start from dinosaur bones starting from right side assuming u are facing the screen",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Now again I am trying to explain my partner from start how to start using the alphabets how should be the path look and I think so my partner did pretty well in making the fast path. Now I will explain him the further directions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:16:29.254460Z",
+    "action_type": "message",
+    "action_content": "we will go left side of volcano",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Now again I am trying to explain my partner from start how to start using the alphabets how should be the path look and I think so my partner did pretty well in making the fast path. Now I will explain him the further directions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:17:00.204032Z",
+    "action_type": "message",
+    "action_content": "keep space between the lines and volcano",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Now again I am trying to explain my partner from start how to start using the alphabets how should be the path look and I think so my partner did pretty well in making the fast path. Now I will explain him the further directions.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:17:16.659670Z",
+    "action_type": "message",
+    "action_content": "it is a curve path",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am trying to explain my partner how the route looks like. Basically it was a C shape in which the volcano was inside. So basically I was trying to explain him and my partner was doing pretty well and I think so he was not confused and he made right path.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:17:43.351591Z",
+    "action_type": "message",
+    "action_content": "like C shape for valcano",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am trying to explain my partner how the route looks like. Basically it was a C shape in which the volcano was inside. So basically I was trying to explain him and my partner was doing pretty well and I think so he was not confused and he made right path.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:18:38.389640Z",
+    "action_type": "message",
+    "action_content": "no",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am trying to explain my partner how the route looks like. Basically it was a C shape in which the volcano was inside. So basically I was trying to explain him and my partner was doing pretty well and I think so he was not confused and he made right path.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:19:33.641700Z",
+    "action_type": "message",
+    "action_content": "u will try to make a C shape from start but C upper half will more Like how we draw S",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am trying to explain my partner how the route looks like. Basically it was a C shape in which the volcano was inside. So basically I was trying to explain him and my partner was doing pretty well and I think so he was not confused and he made right path.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:20:02.481073Z",
+    "action_type": "message",
+    "action_content": "mirrored S",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am trying to explain my partner how the route looks like. Basically it was a C shape in which the volcano was inside. So basically I was trying to explain him and my partner was doing pretty well and I think so he was not confused and he made right path.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:20:17.915498Z",
+    "action_type": "message",
+    "action_content": "are u done ?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am trying to explain my partner how the route looks like. Basically it was a C shape in which the volcano was inside. So basically I was trying to explain him and my partner was doing pretty well and I think so he was not confused and he made right path.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:20:25.787796Z",
+    "action_type": "message",
+    "action_content": "please reply",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am trying to explain my partner how the route looks like. Basically it was a C shape in which the volcano was inside. So basically I was trying to explain him and my partner was doing pretty well and I think so he was not confused and he made right path.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:20:57.871931Z",
+    "action_type": "message",
+    "action_content": "is tour valcno in C?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was confirming with my partner is the Valcano in the C-shape or not. I think my partner was doing pretty well but I was just confirming from my side that is the route made right or wrong.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:23:35.953811Z",
+    "action_type": "message",
+    "action_content": "so now moving ahead",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I was telling my partner that we will be moving ahead with the directions and my partner had done pretty well till now and that's the reason we were moving ahead.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:24:11.201068Z",
+    "action_type": "message",
+    "action_content": "draw that line further close",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was explaining my partner how to move further ahead in the route he was doing pretty well so I was explaining him in more detail so that the route is exactly same as how I can see",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:24:41.627074Z",
+    "action_type": "message",
+    "action_content": "there should be half finger gap between volcano and the line towards main box",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am giving my partner more details how the route should be look like and also it is  continuation of the previous message so that my partner understands it well.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:26:12.340497Z",
+    "action_type": "message",
+    "action_content": "also C shape should have half finger gap between volcano and line",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here again with similar details, a broader explanation, I was giving an explanation to the previous route where volcano was involved so that my partner makes a better route and a route which is almost identical to what I am saying.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:27:17.649819Z",
+    "action_type": "message",
+    "action_content": "suspension bridge",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here my partner was a bit confused and he was asking me the final destination so I have just mentioned the final destination.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:28:47.897191Z",
+    "action_type": "message",
+    "action_content": "we will stary from dino to volcano and moving straight down till pyramid",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I was trying to explain my partner again from the start till the second point of the map so that we will be aligned together from the start to the second checkpoint",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:28:59.609469Z",
+    "action_type": "message",
+    "action_content": "as we discussed pyramid is in wrong position",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am trying to explain him that the pyramid was in the wrong position so in the future messages I will tell him that where the exact pyramid is and how he can make the route.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:30:34.864046Z",
+    "action_type": "message",
+    "action_content": "so right position of pyramid if slight left of forest",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am telling my partner that the right position of pyramid is slight left of the forest and I think so my partner did pretty well to understand that and this would be the is the main part so I was explaining again and again.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:30:52.265557Z",
+    "action_type": "message",
+    "action_content": "we will make a cup shape",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Now, I feel my partner has reached to the pyramid and hence I was telling him that the pyramid will be in a cup shape. So I think so he understood that pretty well and he was building a cup shape in which the pyramid will be there.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:30:57.256943Z",
+    "action_type": "message",
+    "action_content": "pyramid will be inside it",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am confirming and telling him that the pyramid will be inside the cup shape.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:32:06.264216Z",
+    "action_type": "message",
+    "action_content": "sorry slight right of the forest it should start exactly below the forest written",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "So, there was one confusion while I was trying to explain the location of pyramid. I had told him that the pyramid is the slight left of the forest but actually the pyramid is slight right of the forest and it should start exactly below the forest written.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:32:35.803753Z",
+    "action_type": "message",
+    "action_content": "also keep a half finger gap",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I was giving an extra detail how to make a route around a pyramid.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:32:42.545286Z",
+    "action_type": "message",
+    "action_content": "between two",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I was giving an extra detail how to make a route around a pyramid.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:34:34.331907Z",
+    "action_type": "message",
+    "action_content": "did u reach pyramid ?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was trying to understand the route is made till the pyramid or not by asking my partner did you reach pyramid.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:34:47.465814Z",
+    "action_type": "message",
+    "action_content": "if yes make a tea cup",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was again explaining my partner to make a teacup which will include the pyramid checkpoint",
+      "team_goal": "Something was unclear and we were working it out",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:35:48.985807Z",
+    "action_type": "message",
+    "action_content": "now stop the line exactly in front of where forest is written",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "now me and my partner were moving ahead with the route and I was just trying to explain him how the route looks like",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:35:53.242818Z",
+    "action_type": "message",
+    "action_content": "in the same line",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "now me and my partner were moving ahead with the route and I was just trying to explain him how the route looks like",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:36:04.545027Z",
+    "action_type": "message",
+    "action_content": "we will make a small n",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Same, now I am again and again telling him how to move forward with the root and explaining with the help of alphabets is making it easier for both of us to understand the root.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:36:17.749009Z",
+    "action_type": "message",
+    "action_content": "with n being slightly tilted",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Since I mentioned I was trying to explain with the help of alphabets, I was trying to explain him how the end really looks like. So actually the end was slightly tilted, so I was telling him to make the n slightly tilted and I think so he understood it pretty well.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:36:41.547075Z",
+    "action_type": "message",
+    "action_content": "make a way to make U above igloo",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here again I am trying to explain him to how to move after making a small n tilted n. To make a U above an igloo was the next direction I gave to my partner and I think so my partner is doing pretty well.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:37:12.950040Z",
+    "action_type": "message",
+    "action_content": "making*",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here again I am trying to explain him to how to move after making a small n tilted n. To make a U above an igloo was the next direction I gave to my partner and I think so my partner is doing pretty well.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:37:37.586858Z",
+    "action_type": "message",
+    "action_content": "n should end right of igloo",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here again I am trying to explain him to how to move after making a small n tilted n. To make a U above an igloo was the next direction I gave to my partner and I think so my partner is doing pretty well.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:38:51.957826Z",
+    "action_type": "message",
+    "action_content": "now we will make a U",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I think so here my partner was a bit confused so he was asking me a question whether I should make a U now U so I was trying to explain him yes now you will make a U shape",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:39:37.444027Z",
+    "action_type": "message",
+    "action_content": "the curve of u should be exactly above the igloo",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was trying to explain him in more detail how U should be look like. Basically the curve of U should be exactly above the igloo was my statement to him to make him understand it better.",
+      "team_goal": "Something was unclear and we were working it out",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Waiting for more information"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:40:41.602514Z",
+    "action_type": "message",
+    "action_content": "its just above it",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was trying to explain him in more detail how U should be look like. Basically the curve of U should be exactly above the igloo was my statement to him to make him understand it better.",
+      "team_goal": "Something was unclear and we were working it out",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Waiting for more information"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:42:16.370941Z",
+    "action_type": "message",
+    "action_content": "from dino its only the upper half of S",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here me and my partner were again trying to understand the route from the start so I was explaining him the route again from the start there was no such confusion but just to make sure the route is right I was trying to explain him from the start.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:42:31.266571Z",
+    "action_type": "message",
+    "action_content": "the other half of S is straight line",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was trying to explain him in more detail how U should be look like. Basically the curve of U should be exactly above the igloo was my statement to him to make him understand it better.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:42:48.191711Z",
+    "action_type": "message",
+    "action_content": "going under the pyramid in cup shape",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was trying to explain my partner again from the start so this conversation was the part of that earlier thing only where there was no such confusion but I was trying to explain him from the start so that he is also well aligned with the root and also confirming that the root is made in the right track.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:42:56.288883Z",
+    "action_type": "message",
+    "action_content": "are u doing right ?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I am confirming with my partner that is he doing right till the pyramid route where I was explaining him the route again from the start here I've reached the pyramid so I was just trying to understand is he doing right or wrong and I think so my partner was doing pretty well.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:43:43.031431Z",
+    "action_type": "message",
+    "action_content": "and then n where n is slight tilted so left side of n is above the right side",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was trying to explain my partner again from the start so this conversation was the part of that earlier thing only where there was no such confusion but I was trying to explain him from the start so that he is also well aligned with the root and also confirming that the root is made in the right track.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:44:21.014472Z",
+    "action_type": "message",
+    "action_content": "tilted left side",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was trying to explain him in more detail how U should be look like. Basically the curve of U should be exactly above the igloo was my statement to him to make him understand it better.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:46:09.570013Z",
+    "action_type": "message",
+    "action_content": "now further u will move to finish line",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "This was the final stage when I was explaining him again the route from the start. So, this was the final stage.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:46:28.736850Z",
+    "action_type": "message",
+    "action_content": "yes",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "My partner asked me a question after the U so I just replied him with a yes to reach the final destination.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:46:43.804945Z",
+    "action_type": "message",
+    "action_content": "left side of u extend it to suspension",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I gave my partner a more better explanation with extra details on how to move ahead from the U.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:47:00.512123Z",
+    "action_type": "message",
+    "action_content": "is below",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here my partner is confused and asking me whether he should end below the suspension bridge or above the suspension bridge so I was giving him a clear direction that he should end below the suspension bridge.",
+      "team_goal": "Something was unclear and we were working it out",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:47:26.779722Z",
+    "action_type": "message",
+    "action_content": "betweeb both letters",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here again my partner is asking me the question where should he finish I was trying to answer him and let him know where he should finish under the suspension.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:47:36.734011Z",
+    "action_type": "message",
+    "action_content": "between*",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here again my partner is asking me the question where should he finish I was trying to answer him and let him know where he should finish under the suspension.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:48:12.445520Z",
+    "action_type": "message",
+    "action_content": "a normal gap",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was trying to tell my partner the gap between the letters and where should he end.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:48:21.299262Z",
+    "action_type": "message",
+    "action_content": "less than half finger",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I was trying to tell my partner the gap between the letters and where should he end.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:48:29.398495Z",
+    "action_type": "message",
+    "action_content": "not too close for sure",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I was telling my partner that he should not end very close to the suspension bridge. There should be some gap, maybe on a half finger.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Grounding by sharing or requesting information to align"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:49:35.771193Z",
+    "action_type": "message",
+    "action_content": "okayyy",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here, my partner told me that we have got the root, so I was just replying him with the word OK.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:49:46.509877Z",
+    "action_type": "message",
+    "action_content": "do u need any more guidance ?",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here, to make sure the route is right, I was asking my partner does he need any more guidance on the route.",
+      "team_goal": "Working toward a shared understanding",
+      "partner_intent": "Is waiting for more information to understand the situation",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:50:13.602841Z",
+    "action_type": "message",
+    "action_content": "once if possible can u describe me the route",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I was asking my partner to describe the route so that I can get a better knowledge if he made the right route or wrong.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Probably understood our situation but I was not fully sure",
+      "self_reasoning": "Confirming the situation with my partner"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:50:30.766649Z",
+    "action_type": "message",
+    "action_content": "thasts great",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I thought so. The route made by partner was right. So I was just acknowledging him. That's great.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:50:44.204731Z",
+    "action_type": "message",
+    "action_content": "small n and small u",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I thought that he only mentioned n and u so I was just trying to give him more details of making him more comfortable by saying it was small n and small u.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:51:01.545125Z",
+    "action_type": "message",
+    "action_content": "great then",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "Here I was sure that my partner had done pretty well and he made the right route.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:51:38.601338Z",
+    "action_type": "message",
+    "action_content": "we can submit",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I asked my partner to submit the assignment.",
+      "team_goal": "Still figuring out what we needed to do",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  },
+  {
+    "role": "guide",
+    "timestamp": "2026-05-10T19:51:42.375778Z",
+    "action_type": "message",
+    "action_content": "same to u",
+    "map_canvas": "",
+    "drawing_accuracy": "",
+    "mental_model": {
+      "rationale": "I asked my partner to submit the assignment.",
+      "team_goal": "Clear on what to do and working on it",
+      "partner_intent": "Understood the situation and we were on the same page",
+      "self_reasoning": "Executing a plan we already agreed on"
+    }
+  }
+]

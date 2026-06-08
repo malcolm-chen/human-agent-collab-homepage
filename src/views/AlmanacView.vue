@@ -46,8 +46,8 @@ const steps = [
       />
 
       <div class="btn-row page-actions">
-        <a href="#" class="btn btn-a">Paper</a>
-        <a href="#" class="btn btn-ghost">Dataset</a>
+        <a href="https://arxiv.org/abs/2606.06388" class="btn btn-a">Paper</a>
+        <a href="https://huggingface.co/datasets/NEU-HAI/Almanac" class="btn btn-ghost">Dataset</a>
       </div>
 
       <hr />

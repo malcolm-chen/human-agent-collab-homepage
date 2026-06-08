@@ -97,8 +97,8 @@ const platformCite = `@article{yao2025humanagent,
             </div>
             <div class="teaser-actions">
               <RouterLink to="/almanac" class="btn btn-a btn-sm">Project Page</RouterLink>
-              <a href="#" class="btn btn-ghost btn-sm">Paper</a>
-              <a href="#" class="btn btn-ghost btn-sm">Dataset</a>
+              <a href="https://arxiv.org/abs/2606.06388" class="btn btn-ghost btn-sm">Paper</a>
+              <a href="https://huggingface.co/datasets/NEU-HAI/Almanac" class="btn btn-ghost btn-sm">Dataset</a>
             </div>
           </div>
           <div class="teaser-aside">
@@ -136,8 +136,8 @@ const platformCite = `@article{yao2025humanagent,
             </div>
             <div class="teaser-actions">
               <RouterLink to="/collabsim" class="btn btn-b btn-sm">Project Page</RouterLink>
-              <a href="#" class="btn btn-ghost btn-sm">Paper</a>
-              <a href="#" class="btn btn-ghost btn-sm">Code</a>
+              <a href="https://arxiv.org/abs/2606.06399" class="btn btn-ghost btn-sm">Paper</a>
+              <a href="https://github.com/neuhai/CollabSim" class="btn btn-ghost btn-sm">Code</a>
             </div>
           </div>
           <div class="teaser-aside">

@@ -135,8 +135,8 @@ Experiments</h2>
       />
 
       <div class="btn-row page-actions">
-        <a href="#" class="btn btn-b">Paper</a>
-        <a href="#" class="btn btn-ghost">Code</a>
+        <a href="https://arxiv.org/abs/2606.06399" class="btn btn-b">Paper</a>
+        <a href="https://github.com/neuhai/CollabSim" class="btn btn-ghost">Code</a>
       </div>
 
       <hr />

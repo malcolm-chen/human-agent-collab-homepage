@@ -8,12 +8,18 @@ import platformTeaser from '../assets/platform/teaser.png'
 
 const activeTeaser = ref('a')
 
-const almanacCite = `{
-to be added
+const almanacCite = `@article{chen2026humans,
+  title={Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration},
+  author={Chen, Jiaju and Lu, Yuxuan and Su, Jiayi and Chen, Chaoran and Xiao, Songlin and Zhang, Zheng and Wang, Yun and Li, Yunyao and Zhao, Jian and Wu, Tongshuang and others},
+  journal={arXiv preprint arXiv:2606.06388},
+  year={2026}
 }`
 
-const collabsimCite = `{
-to be added
+const collabsimCite = `@article{chen2026collabsim,
+  title={CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments},
+  author={Chen, Jiaju and Sun, Bo and Lu, Yuxuan and Wang, Yun and Wang, Dakuo and Yao, Bingsheng},
+  journal={arXiv preprint arXiv:2606.06399},
+  year={2026}
 }`
 
 const platformCite = `@article{yao2025humanagent,

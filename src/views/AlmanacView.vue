@@ -7,8 +7,11 @@ import SessionViewer from '../components/SessionViewer.vue'
 import screenshotFollower from '../assets/almanac/screenshot_follower.jpg'
 import annotationWorkflow from '../assets/almanac/AnnotationWorkflow.png'
 
-const almanacCite = `{
-to be added
+const almanacCite = `@article{chen2026humans,
+  title={Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration},
+  author={Chen, Jiaju and Lu, Yuxuan and Su, Jiayi and Chen, Chaoran and Xiao, Songlin and Zhang, Zheng and Wang, Yun and Li, Yunyao and Zhao, Jian and Wu, Tongshuang and others},
+  journal={arXiv preprint arXiv:2606.06388},
+  year={2026}
 }`
 
 const canvasVisible = ref(true)

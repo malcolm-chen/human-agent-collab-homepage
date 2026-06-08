@@ -23,7 +23,7 @@ export const almanacCredits = {
     { num: '1', name: 'Northeastern University' },
     { num: '2', name: 'University of Notre Dame' },
     { num: '3', name: 'Adobe' },
-    { num: '4', name: 'Microsoft' },
+    { num: '4', name: 'Microsoft Research Asia' },
     { num: '5', name: 'University of Waterloo' },
     { num: '6', name: 'Carnegie Mellon University' },
   ],
@@ -61,6 +61,6 @@ export const collabsimCredits = {
   ],
   affiliations: [
     { num: '1', name: 'Northeastern University' },
-    { num: '2', name: 'Microsoft' },
+    { num: '2', name: 'Microsoft Research Asia' },
   ],
 }

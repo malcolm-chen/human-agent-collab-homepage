@@ -9,8 +9,11 @@ import daytrader from '../assets/collabsim/daytrader.png'
 import hiddenprofile from '../assets/collabsim/hiddenprofile.png'
 import maptask from '../assets/collabsim/maptask.png'
 
-const collabsimCite = `{
-to be added
+const collabsimCite = `@article{chen2026collabsim,
+  title={CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments},
+  author={Chen, Jiaju and Sun, Bo and Lu, Yuxuan and Wang, Yun and Wang, Dakuo and Yao, Bingsheng},
+  journal={arXiv preprint arXiv:2606.06399},
+  year={2026}
 }`
 
 const architectureLayers = [
